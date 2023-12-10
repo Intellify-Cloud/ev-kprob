@@ -11,7 +11,7 @@ services:
         desc: "We submit Home Loan Applications to up to seven banks negotiating the best interest rates and deal in the market at any given time."
         icon: fas fa-home
         link: 
-          url: mailto:chanelle.macey@evogroup.co.za ?subject=Mail from evo Chanelle Macey website
+          url: mailto:keyprobonds@outlook.com ?subject=Mail from evo Key Pro Bonds website
           text: "Email Us"
       - title: "Pre-qualification"
         desc: "We help you check your credit record, income and expenses to give you an accurate assessment of what you can afford. You will then know how likely you are to qualify for a bond."
@@ -23,7 +23,7 @@ services:
         desc: "I'm searching property portals and visiting show houses but have a few questions."
         icon: fas fa-search
         link: 
-          url: mailto:chanelle.macey@evogroup.co.za ?subject=Mail from evo Chanelle Macey website
+          url: mailto:keyprobonds@outlook.com ?subject=Mail from evo Key Pro Bonds website
           text: "Email Me"
 
 articles:
@@ -75,7 +75,7 @@ more-calculators:
           text: "Calculate"
 
 textblock:
-    title: "Why evo Chanelle Macey"
+    title: "Why Key Pro Bonds"
     text: "Home loans ....getting your bond approved."
     footer: "Our service is completely FREE, with no obligation."
     section: textblock
@@ -110,15 +110,15 @@ portfolio:
     
 about:
     title: "About Us"
-    text2: "Property runs in my family's veins, with a father who is a property developer and a mom who has been an estate agent for more than 30 years, I have had  exposure to the industry from many perspectives and fully understand the ups & downs of approved and declined bonds.
+    text2: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla gravida non urna a efficitur. Fusce ultricies dui eu eros vulputate, et ultricies quam placerat.
     <br><br>
-    Our passion for my work shows in my day-to-day interactions and all of our transactions. 
+    Pellentesque nibh lectus, pulvinar a convallis sed, vehicula vel diam. Etiam blandit mi in diam rhoncus, eget auctor lacus tristique. 
     <br><br>
-    We understand the importance of each sale for my buyers and real estate partners.
+    Aenean lacus risus, vehicula at pellentesque eu, facilisis non tellus.
     <br><br>
-    We am committed to obtaining the best bond offer no matter the challenge, so feel free to contact us if you need a pre-qualification or a home loan.
+    Vivamus consectetur sed velit ut egestas. Integer pretium varius nulla vel scelerisque. Etiam placerat, eros eu tempus scelerisque, nibh velit efficitur diam, et lacinia nisi urna sit amet diam.
     <br><br>
-    We look forward to helping you!"
+    Vivamus consectetur sed velit ut egestas!"
     
 clients:
     title: Bank Partners
@@ -155,64 +155,32 @@ team:
     section: team
     contact: 
     people:
-      - name: "Chanelle Macey"
+      - name: "Carol Musgrove"
         role: "Property Finance Specialist"
-        image: assets/img/team/Chanelle Macey evo Homeloans.jpg
+        image: assets/img/team/xxx.jpg
         social:
           - url: tel:079 562 0507
             icon: fas fa-phone
-          - url: mailto:chanelle.macey@evogroup.co.za?subject=evo Chanelle Macey Website Enquiry
+          - url: mailto:keyprobonds@outlook.com?subject=evo Key Pro Bonds Website Enquiry
             icon: fas fa-envelope
-          - url: https://www.facebook.com/chanellehomeloan
+          - url: https://www.facebook.com/xxx
             icon: fab fa-facebook-f
-          - url: https://za.linkedin.com/in/chanelle-macey-homeloans
+          - url: https://www.linkedin.com/in/carol-m/
             icon: fab fa-linkedin-in
 
-      - name: "Jacque Calitz"
-        role: "Property Finance Consultant"
-        image: assets/img/team/Jacque Calitz evo Homeloans.jpg
-        social:
-          - url: tel:071 883 3644
-            icon: fas fa-phone
-          - url: mailto:jacque.calitz@evogroup.co.za?subject=evo Chanelle Macey Website Enquiry
-            icon: fas fa-envelope
-          - url: https://www.facebook.com/chanellehomeloan
-            icon: fab fa-facebook-f
-
-      - name: "Zelda Weaver"
-        role: "Property Finance Specialist"
-        image: assets/img/team/Zelda Weaver evo Homeloans.jpg
-        social:
-          - url: tel:082 414 1865
-            icon: fas fa-phone
-          - url: mailto:zelda.weaver@evogroup.co.za?subject=evo Chanelle Macey Website Enquiry
-            icon: fas fa-envelope
-          - url: https://www.facebook.com/Evo.ZeldaWeaverEverywhere?mibextid=ZbWKwL
-            icon: fab fa-facebook-f
-
- 
 testimonials:
     title: "TESTIMONIALS"
     text: "What Others Say About Us"
     section: testimonials
     people:
-      - name: "Leandre Van Rooyen"
-        testimony: "Working with Chanelle has been an absolute pleasure!"
+      - name: "Tiberius V."
+        testimony: "orem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet enim viverra, venenatis nunc et, tincidunt justo."
 
-      - name: "Gareth"
-        testimony: "Chanelle is a Rockstar! Amazing service and delivery. I will definitely be referring her to friends looking to secure bonds."
+      - name: "Gaius P. ☆☆☆☆☆"
+        testimony: " Cras tincidunt felis erat, ut venenatis nisi dapibus quis. In varius neque orci, eget tristique nunc tempus vel. ❤️ "
 
-      - name: "Grace C."
-        testimony: "Thank you so so much, couldn’t have done it without you. You went far and beyond, against all odds and still succeeded ❤️ It’s not an understatement that you’re great at what you do!"
-
-      - name: "Christopher Perumall"
-        testimony: "Hi Chanelle..thank you for being there for us. Thank you for going the extra mile for us and going out of your way to make things happen. Thank you for being patient with us and making the bond possible. Thank you for putting such an extra effort in to accomplish our bond. We really appreciate you. Thank you kindly."
-
-      - name: "Leendert & Rachelle Roos"
-        testimony: "Hi Chanelle, first of all, I want to thank you for always being friendly and helpful....... Clearly with each phone call the smile was there and I believe that is what kept us positive during our whole deal. You are a go-getter and nothing will stand in your way to help your clients. We truly admire your good service, warm personality, and great efforts with every step to finalize our bond finance. Keep up the stunning work!"
-
-      - name: "Dr. Frank ☆☆☆☆☆"
-        testimony: "I would love to thank you for your dedication and hard work. What seemed like an impossible venture and receiving rejection after rejection from previous consultants, phone call after phone call, you were able to make it happen and I can finally say I have my dream property! Thank you very much! I will definitely recommend you to all the people who ever need your services. Very professional and honest. I thank you."  
+      - name: "Trimalchio B. ☆☆☆☆☆"
+        testimony: "Ut quis rhoncus est, a congue magna. Maecenas accumsan tellus ut libero varius, in pretium ante ultricies. Curabitur vehicula, orci a ultrices aliquet, felis augue mattis eros, pellentesque congue leo leo non nunc. Etiam posuere mattis odio, et faucibus enim condimentum vitae."  
       
 
 
@@ -226,13 +194,13 @@ contact:
 footer:
     legal: "Powered by evo Homeloans"
     social:
-      - url: https://twitter.com/chanelle_macey
-        icon: "fab fa-twitter"  
-      - url: https://www.facebook.com/chanellehomeloan
-        icon: "fab fa-facebook-f"
-      - url: https://za.linkedin.com/in/chanelle-macey-homeloans
+      #- url: https://twitter.com/xxx
+      #  icon: "fab fa-twitter"  
+      #- url: https://www.facebook.com/xxx
+      #  icon: "fab fa-facebook-f"
+      - url: https://www.linkedin.com/company/key-pro-bonds/
         icon: "fab fa-linkedin-in"
-      - url: https://api.whatsapp.com/send?phone=27795620507
+      - url: https://api.whatsapp.com/send?phone=27633880161
         icon: "fab fa-whatsapp"
       # - url: https://instagram.com
       #   icon: "fab fa-instagram"
