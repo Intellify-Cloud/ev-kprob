@@ -14,7 +14,7 @@ background: grey
   <div class="row">
 
   <div class="col-md">
-		<!-- <p>Tel: <a href="tel:+27210232228"> 079 485 5355</a></p> -->
+		<!-- <p>Tel: <a href="tel:+27633880161"> 063 388 0161</a></p> -->
 		<p>Cell: <a href="tel:+27633880161">063 388 0161</a></p>
 		<p>Email: <a href="mailto:keyprobonds@outlook.com?subject=Mail from evo Website">keyprobonds@outlook.com</a></p>
 		<br>
