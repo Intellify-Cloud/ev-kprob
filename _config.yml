@@ -1,9 +1,9 @@
 baseurl: ""
 
-title      : evo Key Pro Bonds - Experts in Bond Origination & Home Loans | Durban
-email      : keyprobonds@outlook.com
+title: evo Key Pro Bonds - Experts in Bond Origination & Home Loans | Randburg
+email: keyprobonds@outlook.com
 description: Connect with Carol Musgrove at evo Key Pro Bonds for expert guidance on securing your home loan. Our team of seasoned property specialists specializes in tailored home loans and comprehensive property finance solutions. We bring unparalleled passion to the property industry, dedicated specifically to bonds, home loans, and origination services. Count on our unwavering commitment to delivering excellence and fostering enduring partnerships.
-author     : Eben Roux / Pieter Oosthuizen
+author: Eben Roux / Pieter Oosthuizen
 
 analytics:
   google: G-XXX
@@ -22,12 +22,12 @@ webserver_headers:
 logo:
   path: /assets/evo-key-pro-bonds-logo.png
 
-exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
+exclude: [node_modules, webpack-config.js, package.json, package-lock.json]
 
 group: evo Homeloans
 
-company: evo Key Pro Bonds 
+company: evo Key Pro Bonds
 
 url: https://evohomeloans.co.za/bond-originator/uncategorized/xxx/
 
-address: 275 Peter Mokaba Road, Morningside, Durban, 4001
+address: 00 XXX Road, XXX Suburb, Randburg, XXXX
