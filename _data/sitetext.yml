@@ -18,7 +18,7 @@ services:
         icon: fas fa-tasks       
         link:
           url: tel:+27633880161
-          text: "Call: 063 388 0161
+          text: "Call: 063 388 0161"
       - title: "Still Looking for a Home"
         desc: "I'm searching property portals and visiting show houses but have a few questions."
         icon: fas fa-search
@@ -157,11 +157,11 @@ team:
         role: "Property Finance Specialist"
         image: assets/img/team/300x300.jpg
         social:
-          - url: tel:063 388 0161
+          - url: tel:079 562 0507
             icon: fas fa-phone
           - url: mailto:keyprobonds@outlook.com?subject=evo Key Pro Bonds Website Enquiry
             icon: fas fa-envelope
-          - url: https://www.facebook.com/xxx
+          - url: https://web.facebook.com/byCarolM/
             icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/carol-m/
             icon: fab fa-linkedin-in
@@ -192,16 +192,12 @@ contact:
 footer:
     legal: "Powered by evo Homeloans"
     social:
-      #- url: https://twitter.com/xxx
-      #  icon: "fab fa-twitter"  
-      #- url: https://www.facebook.com/xxx
-      #  icon: "fab fa-facebook-f"
+      - url: https://www.facebook.com/keyprobonds/
+        icon: "fab fa-facebook-f"
       - url: https://www.linkedin.com/company/key-pro-bonds/
         icon: "fab fa-linkedin-in"
       - url: https://api.whatsapp.com/send?phone=27633880161
         icon: "fab fa-whatsapp"
-      # - url: https://instagram.com
-      #   icon: "fab fa-instagram"
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

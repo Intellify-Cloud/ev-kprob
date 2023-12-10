@@ -21,10 +21,9 @@ background: grey
     </div>
 
     <div class="col-md">
-    	<p>xxx</p>
-    	<p>xxx</p>
+    	<p>Randburg</p>
     	<p>Gauteng</p>
-    	<p>xxx</p>
+    	<p>South Africa</p>
     </div>
 
   </div>
