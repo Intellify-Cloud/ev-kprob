@@ -1,0 +1,33 @@
+baseurl: ""
+
+title      : evo Chanelle Macey - Expert in Bond Origination & Home Loans | Durban
+email      : chanelle.macey@evogroup.co.za
+description: Contact Chanelle Macey from evo Chanelle Macey to help you with your home loan. We are experienced property professionals specializing in home loans and property finance. We are passionate about the property industry, focusing on bonds, home loans, and origination. We are committed to excellence and building long-term relationships.
+author     : Eben Roux / Pieter Oosthuizen
+
+analytics:
+  google: G-2X3NV6BXQM
+
+collections:
+  portfolio:
+
+markdown: kramdown
+
+webserver_headers:
+  - - Access-Control-Allow-Origin
+    - "*"
+  - - Access-Control-Allow-Methods
+    - GET, OPTIONS, HEAD
+
+logo:
+  path: /assets/evo chanelle macey logo.png
+
+exclude: [node_modules,webpack-config.js,package.json,package-lock.json]
+
+group: evo Homeloans
+
+company: evo Chanelle Macey 
+
+url: https://evohomeloans.co.za/bond-originator/uncategorized/chanelle-macey-evo-home-loans/
+
+address: 275 Peter Mokaba Road, Morningside, Durban, 4001
