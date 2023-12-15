@@ -108,15 +108,21 @@ portfolio:
     
 about:
     title: "About Us"
-    text2: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla gravida non urna a efficitur. Fusce ultricies dui eu eros vulputate, et ultricies quam placerat.
+    text2: "We have over 60 years’ accumulative experience in Banking, Finance Applications and Real Estate – giving us the leading-edge in securing you a Home  Loan. Our passion lies in getting you the keys to your very own home! We genuinely do a happy dance for you when your home loan finance is approved by the banks! And boy, we sure do a lot of dancing!
     <br><br>
-    Pellentesque nibh lectus, pulvinar a convallis sed, vehicula vel diam. Etiam blandit mi in diam rhoncus, eget auctor lacus tristique. 
+    Having been employed as a Credit Manager, in the past, we know exactly what information the banks require to approve your home loan, saving you frustration, time and money!    <br><br>
+    To us at evo Key Pro Bonds you are not just a number, we genuinely care about each and every one of our clients!
     <br><br>
-    Aenean lacus risus, vehicula at pellentesque eu, facilisis non tellus.
+    Key Pro Bonds is fully dedicated to getting your home loan application approved - securing you the best possible deal from the banks, in the quickest time possible, with the least amount of effort on your part! Our ambition is to provide home ownership to as many South Africans as possible!    
     <br><br>
-    Vivamus consectetur sed velit ut egestas. Integer pretium varius nulla vel scelerisque. Etiam placerat, eros eu tempus scelerisque, nibh velit efficitur diam, et lacinia nisi urna sit amet diam.
+    Once you have provided Key Pro Bonds with all the required information and documentation, we take the reins and ensure that your application is prepared, motivated, and submitted to the banks in the correct format and in the quickest possible time.  We have close communication with the banks and receive live feedback on every step of the application which we relay to you, thereby reducing the stress of the wait…
     <br><br>
-    Vivamus consectetur sed velit ut egestas!"
+    Key Pro Bonds guides you from the application stage to bond registration – constantly keeping you informed on all progress!  The bond application and registration process can be a bit complicated, and we certainly have no problem in sharing our knowledge and experience of the steps in the process – we patiently explain and answer all your questions.
+    <br><br>
+    Having started our careers in legal collections at the bank we understand why the National Credit Act is so important – the banks are bound by this Act to lend within a certain criterion to protect you!  
+    We are also able to advise and guide you on how to improve your Credit Ratings from a qualified and experienced perspective.
+    <br><br>
+    We understand that buying a home is one of the biggest decisions in your life – let us assist you!"
     
 clients:
     title: Bank Partners
@@ -171,15 +177,23 @@ testimonials:
     text: "What Others Say About Us"
     section: testimonials
     people:
-      - name: "Tiberius V."
-        testimony: "orem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet enim viverra, venenatis nunc et, tincidunt justo."
+      - name: "Grant F."
+        testimony: "Thank you, Carol and Co., You have been absolutely amazing – your contact feedback was really impressive! I will be referring my ex-wife to be to you too – please see if you can assist her with getting finance on the same basis as you did for me?"
 
-      - name: "Gaius P. ☆☆☆☆☆"
-        testimony: " Cras tincidunt felis erat, ut venenatis nisi dapibus quis. In varius neque orci, eget tristique nunc tempus vel. ❤️ "
+      - name: "Wouter L."
+        testimony: "Thank you, to you guys! You rock!"
 
-      - name: "Trimalchio B. ☆☆☆☆☆"
-        testimony: "Ut quis rhoncus est, a congue magna. Maecenas accumsan tellus ut libero varius, in pretium ante ultricies. Curabitur vehicula, orci a ultrices aliquet, felis augue mattis eros, pellentesque congue leo leo non nunc. Etiam posuere mattis odio, et faucibus enim condimentum vitae."  
+      - name: "Karen W | Estate Agent"
+        testimony: "Gee Carol!  You are on the ball!"
+
+      - name: "Yongama F."
+        testimony: "Carol, thank you for getting my bond approved! I really appreciate all the feedback you gave me!"  
+
+      - name: "Tansy P."
+        testimony: "Wow, Carol!  Just WOW! You are incredible!  Thanks for getting my home loan approved! I truly appreciate all your hard work and constant updates! " 
       
+
+
 
 
 
