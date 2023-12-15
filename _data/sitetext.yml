@@ -174,23 +174,27 @@ team:
 
 testimonials:
     title: "TESTIMONIALS"
-    text: "What Others Say About Us"
+    text: "What Others Say"
     section: testimonials
     people:
       - name: "Grant F."
         testimony: "Thank you, Carol and Co., You have been absolutely amazing – your contact feedback was really impressive! I will be referring my ex-wife to be to you too – please see if you can assist her with getting finance on the same basis as you did for me?"
 
+      - name: "Tansy P."
+        testimony: "Wow, Carol!  Just WOW! You are incredible!  Thanks for getting my home loan approved! I truly appreciate all your hard work and constant updates! " 
+
+      - name: "Yongama F."
+        testimony: "Carol, thank you for getting my bond approved! I really appreciate all the feedback you gave me!"  
+        
       - name: "Wouter L."
         testimony: "Thank you, to you guys! You rock!"
 
       - name: "Karen W | Estate Agent"
         testimony: "Gee Carol!  You are on the ball!"
 
-      - name: "Yongama F."
-        testimony: "Carol, thank you for getting my bond approved! I really appreciate all the feedback you gave me!"  
 
-      - name: "Tansy P."
-        testimony: "Wow, Carol!  Just WOW! You are incredible!  Thanks for getting my home loan approved! I truly appreciate all your hard work and constant updates! " 
+
+
       
 
 

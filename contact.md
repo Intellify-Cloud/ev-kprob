@@ -21,7 +21,8 @@ background: grey
     </div>
 
     <div class="col-md">
-    	<p>Randburg</p>
+        <p>Ruimsig</p>
+    	<p>Krugersdorp</p>
     	<p>Gauteng</p>
     	<p>South Africa</p>
     </div>
