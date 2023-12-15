@@ -3,20 +3,20 @@
 @import "bootstrap/scss/variables";
 @import "bootstrap/scss/mixins";
 
-$header-image: "./img/evo-key-pro-bonds-hero.jpg";
+$header-image: "./img/evo-key-pro-bonds-header.jpg";
 $contact-image: "./img/contact.png";
 
 $primary: #1bacc6;
 $white: #fff;
 $black: #000;
-$input-height:calc(#{$input-height-inner} + #{$input-height-border});
+$input-height: calc(#{$input-height-inner} + #{$input-height-border});
 
-$spacer:1rem;
-$border-width:3px;
-$border-radius:0;
+$spacer: 1rem;
+$border-width: 3px;
+$border-radius: 0;
 $enable-rounded: false;
-$enable-shadows:false;
-$enable-gradients:false;
+$enable-shadows: false;
+$enable-gradients: false;
 
 @import "bootstrap/scss/bootstrap";
 @import "bootstrap";
@@ -39,14 +39,13 @@ $enable-gradients:false;
 @import "layout/textblock.scss";
 
 body {
-    overflow-x: hidden;
-    // font-family: "Roboto Slab","Roboto Condensed",sans-serif,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-family: 'Comfortaa', cursive;
-    webkit-tap-highlight-color: $primary;
+  overflow-x: hidden;
+  // font-family: "Roboto Slab","Roboto Condensed",sans-serif,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "Comfortaa", cursive;
+  webkit-tap-highlight-color: $primary;
 }
 
 .post {
-    max-width: 750px;
-    margin-top: 150px;
+  max-width: 750px;
+  margin-top: 150px;
 }
-
