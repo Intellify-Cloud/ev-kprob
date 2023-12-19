@@ -6,7 +6,7 @@ description: Connect with Carol Musgrove at evo Key Pro Bonds for expert guidanc
 author: Eben Roux / Pieter Oosthuizen
 
 analytics:
-  google: G-XXX
+  google: G-5WRT59X4XM
 
 collections:
   portfolio:
@@ -20,7 +20,7 @@ webserver_headers:
     - GET, OPTIONS, HEAD
 
 logo:
-  path: /assets/evo-key-pro-bonds-logo.png
+  path: /assets/evo-key-pro-bonds-logo-new.png
 
 exclude: [node_modules, webpack-config.js, package.json, package-lock.json]
 
