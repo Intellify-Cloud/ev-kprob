@@ -163,7 +163,7 @@ team:
         role: "Property Finance Specialist"
         image: assets/img/team/300x300.jpg
         social:
-          - url: tel:079 562 0507
+          - url: tel:+063 388 0161
             icon: fas fa-phone
           - url: mailto:carol@keyprobonds.co.za?subject=evo Key Pro Bonds Website Enquiry
             icon: fas fa-envelope
